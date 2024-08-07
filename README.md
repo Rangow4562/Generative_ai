@@ -1,4 +1,4 @@
-# Zocket-Product-Photography-with-generative-A.I
+# Product-Photography-with-generative-A.I
 
 Instructions and flow please refer bwlo doc link
 
